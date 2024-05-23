@@ -16,3 +16,9 @@ Furthermore, I then dynamically created the playlist by calling the generate pla
 \*Javascript for functionality.
 
 ## Loom Video Link
+
+https://www.loom.com/share/6389408450b746c0aefbc7a411202cdb?sid=ec5beea8-f2d2-474b-8ca8-a0d60ed71172
+
+
+
+
